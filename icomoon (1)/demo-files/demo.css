@@ -1,5 +1,46 @@
 body {
   font-family: sans-serif;
   font-size: 2rem;
-  color: #555;
+  color: #2a2a2a;
+}
+.icones {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.icon {
+  width: 43%;
+  border-bottom: 0.1rem solid #2a2a2a;
+  margin: 1rem;
+}
+i{
+  font-size: 5rem;
+}
+h2, h1{
+  width: 100%;
+  border-bottom: 0.1rem solid #2a2a2a;
+}
+
+.colors{
+  display: flex;
+
+}
+p{
+  color: #fff;
+  text-align: center;
+}
+.colors1{
+  background: #007172;
+  width: 33%;
+  height: 33vh;
+}
+.colors2{
+  background: #d94f04;
+  width: 33%;
+  height: 33vh;
+}
+.colors3{
+  background: #2a2a2a;
+  width: 33%;
+  height: 33vh;
 }

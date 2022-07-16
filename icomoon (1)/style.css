@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'Icones Kitchen';
-  src:  url('fonts/icomoon.eot?r6j4os');
-  src:  url('fonts/icomoon.eot?r6j4os#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?r6j4os') format('truetype'),
-    url('fonts/icomoon.woff?r6j4os') format('woff'),
-    url('fonts/icomoon.svg?r6j4os#icomoon') format('svg');
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?kja67r');
+  src:  url('fonts/icomoon.eot?kja67r#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?kja67r') format('truetype'),
+    url('fonts/icomoon.woff?kja67r') format('woff'),
+    url('fonts/icomoon.svg?kja67r#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'Icones Kitchen' !important;
+  font-family: 'icomoon' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -28,87 +28,102 @@
 .icon-bottle:before {
   content: "\e900";
 }
-.icon-chicken-leg:before {
+.icon-cakes:before {
   content: "\e901";
 }
-.icon-stainer:before {
+.icon-chicken-leg:before {
   content: "\e902";
 }
-.icon-pan:before {
+.icon-coffee-cup:before {
   content: "\e903";
 }
-.icon-oven-open:before {
+.icon-coffee-maker:before {
   content: "\e904";
 }
-.icon-oven:before {
+.icon-cook:before {
   content: "\e905";
 }
-.icon-smoke:before {
+.icon-dish:before {
   content: "\e906";
 }
-.icon-sandblasted:before {
+.icon-drink:before {
   content: "\e907";
 }
-.icon-miam:before {
+.icon-email:before {
   content: "\e908";
 }
-.icon-glove:before {
+.icon-entrance:before {
   content: "\e909";
 }
-.icon-glass:before {
+.icon-fork:before {
   content: "\e90a";
 }
-.icon-tea-pot:before {
+.icon-github:before {
   content: "\e90b";
 }
-.icon-cook:before {
+.icon-glass:before {
   content: "\e90c";
 }
-.icon-dish:before {
+.icon-glove:before {
   content: "\e90d";
 }
-.icon-timer:before {
+.icon-kitchen-hat:before {
   content: "\e90e";
 }
-.icon-radish:before {
+.icon-knife:before {
   content: "\e90f";
 }
-.icon-entrance:before {
+.icon-ladle:before {
   content: "\e910";
 }
-.icon-cakes:before {
+.icon-linkedin:before {
   content: "\e911";
 }
-.icon-kitchen-hat:before {
+.icon-lock-open:before {
   content: "\e912";
 }
-.icon-rolling-pin:before {
+.icon-lock:before {
   content: "\e913";
 }
-.icon-ladle:before {
+.icon-miam:before {
   content: "\e914";
 }
-.icon-whisk:before {
+.icon-oven-open:before {
   content: "\e915";
 }
-.icon-fork:before {
+.icon-oven:before {
   content: "\e916";
 }
-.icon-spatula:before {
+.icon-pan:before {
   content: "\e917";
 }
-.icon-knife:before {
+.icon-radish:before {
   content: "\e918";
 }
-.icon-github:before {
+.icon-rolling-pin:before {
   content: "\e919";
 }
-.icon-linkedin:before {
+.icon-sandblasted:before {
   content: "\e91a";
 }
-.icon-email:before {
+.icon-smoke:before {
   content: "\e91b";
 }
-.icon-twitter:before {
+.icon-spatula:before {
   content: "\e91c";
+}
+.icon-stainer:before {
+  content: "\e91d";
+}
+.icon-tea-pot:before {
+  content: "\e91e";
+}
+.icon-timer:before {
+  content: "\e91f";
+}
+.icon-twitter:before {
+  content: "\e920";
+}
+.icon-whisk:before {
+  content: "\e921";
 }
