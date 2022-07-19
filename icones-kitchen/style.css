@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?kja67r');
-  src:  url('fonts/icomoon.eot?kja67r#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?kja67r') format('truetype'),
-    url('fonts/icomoon.woff?kja67r') format('woff'),
-    url('fonts/icomoon.svg?kja67r#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?5m9y13');
+  src:  url('fonts/icomoon.eot?5m9y13#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?5m9y13') format('truetype'),
+    url('fonts/icomoon.woff?5m9y13') format('woff'),
+    url('fonts/icomoon.svg?5m9y13#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,105 +25,168 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-coffee-cup:before {
+  content: "\e932";
+}
+.icon-coffee-maker:before {
+  content: "\e933";
+}
+.icon-lock:before {
+  content: "\e934";
+}
+.icon-lock-open:before {
+  content: "\e935";
+}
+.icon-drink:before {
+  content: "\e936";
+}
+.icon-angle-left:before {
+  content: "\e91d";
+}
+.icon-bell:before {
+  content: "\e91e";
+}
+.icon-stop:before {
+  content: "\e91f";
+}
+.icon-sun:before {
+  content: "\e920";
+}
+.icon-compose:before {
+  content: "\e921";
+}
+.icon-add:before {
+  content: "\e922";
+}
+.icon-refresh:before {
+  content: "\e923";
+}
+.icon-moon:before {
+  content: "\e924";
+}
+.icon-download:before {
+  content: "\e925";
+}
+.icon-Sans-titre---12-08:before {
+  content: "\e926";
+}
+.icon-check:before {
+  content: "\e927";
+}
+.icon-message:before {
+  content: "\e928";
+}
+.icon-spinner:before {
+  content: "\e929";
+}
+.icon-trash:before {
+  content: "\e92a";
+}
+.icon-plus:before {
+  content: "\e92b";
+}
+.icon-send:before {
+  content: "\e92c";
+}
+.icon-file:before {
+  content: "\e92d";
+}
+.icon-search:before {
+  content: "\e92e";
+}
+.icon-exclamation:before {
+  content: "\e92f";
+}
+.icon-angle-right:before {
+  content: "\e930";
+}
+.icon-bars:before {
+  content: "\e931";
+}
 .icon-bottle:before {
   content: "\e900";
 }
-.icon-cakes:before {
+.icon-chicken-leg:before {
   content: "\e901";
 }
-.icon-chicken-leg:before {
+.icon-stainer:before {
   content: "\e902";
 }
-.icon-coffee-cup:before {
+.icon-pan:before {
   content: "\e903";
 }
-.icon-coffee-maker:before {
+.icon-oven-open:before {
   content: "\e904";
 }
-.icon-cook:before {
+.icon-oven:before {
   content: "\e905";
 }
-.icon-dish:before {
+.icon-smoke:before {
   content: "\e906";
 }
-.icon-drink:before {
+.icon-sandblasted:before {
   content: "\e907";
 }
-.icon-email:before {
+.icon-miam:before {
   content: "\e908";
 }
-.icon-entrance:before {
+.icon-glove:before {
   content: "\e909";
 }
-.icon-fork:before {
+.icon-glass:before {
   content: "\e90a";
 }
-.icon-github:before {
+.icon-tea-pot:before {
   content: "\e90b";
 }
-.icon-glass:before {
+.icon-cook:before {
   content: "\e90c";
 }
-.icon-glove:before {
+.icon-dish:before {
   content: "\e90d";
 }
-.icon-kitchen-hat:before {
+.icon-timer:before {
   content: "\e90e";
 }
-.icon-knife:before {
+.icon-radish:before {
   content: "\e90f";
 }
-.icon-ladle:before {
+.icon-entrance:before {
   content: "\e910";
 }
-.icon-linkedin:before {
+.icon-cakes:before {
   content: "\e911";
 }
-.icon-lock-open:before {
+.icon-kitchen-hat:before {
   content: "\e912";
 }
-.icon-lock:before {
+.icon-rolling-pin:before {
   content: "\e913";
 }
-.icon-miam:before {
+.icon-ladle:before {
   content: "\e914";
 }
-.icon-oven-open:before {
+.icon-whisk:before {
   content: "\e915";
 }
-.icon-oven:before {
+.icon-fork:before {
   content: "\e916";
 }
-.icon-pan:before {
+.icon-spatula:before {
   content: "\e917";
 }
-.icon-radish:before {
+.icon-knife:before {
   content: "\e918";
 }
-.icon-rolling-pin:before {
-  content: "\e919";
-}
-.icon-sandblasted:before {
-  content: "\e91a";
-}
-.icon-smoke:before {
+.icon-email:before {
   content: "\e91b";
 }
-.icon-spatula:before {
+.icon-twitter:before {
   content: "\e91c";
 }
-.icon-stainer:before {
-  content: "\e91d";
+.icon-github:before {
+  content: "\e919";
 }
-.icon-tea-pot:before {
-  content: "\e91e";
-}
-.icon-timer:before {
-  content: "\e91f";
-}
-.icon-twitter:before {
-  content: "\e920";
-}
-.icon-whisk:before {
-  content: "\e921";
+.icon-linkedin:before {
+  content: "\e91a";
 }
