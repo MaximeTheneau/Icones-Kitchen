@@ -1,3 +1,3 @@
 # Icones-Kitchen
 Icones-Kitchen
-[Demo](https://maximethe.github.io/Icones-Kitchen/icones-kitchen/demo.html)
+[Demo](https://maximetheneau.github.io/Icones-Kitchen/icones-kitchen/demo.html)
